@@ -607,7 +607,7 @@
     "weathered_copper": "bricks",
     "exposed_copper": "bricks",
     "copper_block": "bricks",
-    "copper_ore": "iron_ore",
+    "copper_ore": "sandstone",
     "oxidized_cut_copper": "bricks",
     "weathered_cut_copper": "bricks",
     "exposed_cut_copper": "bricks",
